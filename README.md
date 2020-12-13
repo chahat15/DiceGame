@@ -1,1 +1,1 @@
-# DiceGame
+https://dicetc.herokuapp.com
